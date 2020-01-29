@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>GC_CS_Lab_8___Get_to_Know_Your_Classmates_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

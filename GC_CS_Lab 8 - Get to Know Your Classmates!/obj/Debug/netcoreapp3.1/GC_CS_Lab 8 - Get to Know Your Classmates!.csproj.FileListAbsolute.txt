@@ -1,0 +1,11 @@
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\bin\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.exe
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\bin\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.deps.json
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\bin\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.runtimeconfig.json
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\bin\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.runtimeconfig.dev.json
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\bin\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.dll
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\bin\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.pdb
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\obj\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.csprojAssemblyReference.cache
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\obj\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.AssemblyInfoInputs.cache
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\obj\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.AssemblyInfo.cs
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\obj\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.dll
+C:\Users\coronele\source\repos\GC_CS_Lab 8 - Get to Know Your Classmates!\GC_CS_Lab 8 - Get to Know Your Classmates!\obj\Debug\netcoreapp3.1\GC_CS_Lab 8 - Get to Know Your Classmates!.pdb
